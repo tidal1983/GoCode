@@ -5,5 +5,5 @@ import (
 )
 
 func Login() {
-	fmt.Print("login")
+	fmt.Print("AAA")
 }
